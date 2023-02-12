@@ -1,6 +1,5 @@
-/** @type import('hardhat/config').HardhatUserConfig */
-require("@nomiclabs/hardhat-ethers");
-require('@openzeppelin/hardhat-upgrades');
+// hardhat.config.js
+require('@nomiclabs/hardhat-ethers');
 module.exports = {
-  solidity: "0.8.17",
+  solidity: "0.8.0",
 };

@@ -1,0 +1,12 @@
+await inn.getCleared()
+await inn.authenticate("abcde")
+await inn.getCleared()
+await inn.authenticate("123")
+await inn.retrieve()
+await in.retrieve()
+inn
+const inn = await inst.attach('0x5fbdb2315678afecb367f032d93f642f64180aa3')
+const in = await inst.attach('0x5fbdb2315678afecb367f032d93f642f64180aa3')
+inst
+const inst = await ethers.getContractFactory('Instance');
+await inst = await ethers.getContractFactory('Instance')
