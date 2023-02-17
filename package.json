@@ -17,11 +17,14 @@
   },
   "homepage": "https://github.com/f-hannoun/ethernaut#readme",
   "devDependencies": {
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.8",
     "@nomiclabs/hardhat-ethers": "^2.2.2",
+    "@nomiclabs/hardhat-web3": "^2.0.0",
     "@openzeppelin/hardhat-upgrades": "^1.22.1",
     "chai": "^4.3.7",
     "ethers": "^5.7.2",
-    "hardhat": "^2.12.7"
+    "hardhat": "^2.12.7",
+    "web3": "^1.8.2"
   },
   "dependencies": {
     "@openzeppelin/contracts": "^4.8.1"

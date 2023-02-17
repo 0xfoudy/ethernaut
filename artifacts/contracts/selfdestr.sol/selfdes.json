@@ -1,0 +1,23 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "selfdes",
+  "sourceName": "contracts/selfdestr.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    },
+    {
+      "inputs": [],
+      "name": "attack",
+      "outputs": [],
+      "stateMutability": "payable",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x6080604052348015600f57600080fd5b5060918061001e6000396000f3fe608060405260043610601c5760003560e01c80639e5faafc146021575b600080fd5b60276029565b005b600073cd26aa370c503b2e3c114614c277f78ef0c1cf3490508073ffffffffffffffffffffffffffffffffffffffff16fffea264697066735822122056e83744dd2579e47c69547f59d1594c64643306559855e391b89253fae11b0764736f6c63430008000033",
+  "deployedBytecode": "0x608060405260043610601c5760003560e01c80639e5faafc146021575b600080fd5b60276029565b005b600073cd26aa370c503b2e3c114614c277f78ef0c1cf3490508073ffffffffffffffffffffffffffffffffffffffff16fffea264697066735822122056e83744dd2579e47c69547f59d1594c64643306559855e391b89253fae11b0764736f6c63430008000033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
