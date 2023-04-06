@@ -1,79 +1,9 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "D:\\ethernaut\\contracts\\hellonaut.sol": {
-      "lastModificationDate": 1676219074225,
-      "contentHash": "f792c6f72d39d4df7577d335ed611732",
-      "sourceName": "contracts/hellonaut.sol",
-      "solcConfig": {
-        "version": "0.8.0",
-        "settings": {
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "Instance"
-      ]
-    },
-    "D:\\ethernaut\\contracts\\fallback.sol": {
-      "lastModificationDate": 1676240725455,
-      "contentHash": "88150ea53646bb411bbd5f47f4c60497",
-      "sourceName": "contracts/fallback.sol",
-      "solcConfig": {
-        "version": "0.8.0",
-        "settings": {
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "Fallback"
-      ]
-    },
-    "D:\\ethernaut\\contracts\\coinflip.sol": {
-      "lastModificationDate": 1676298609225,
-      "contentHash": "8cea2b0ee5b7a627d9706244a1a59a40",
+    "/Users/hebiscus/Documents/ethernaut/contracts/coinflip.sol": {
+      "lastModificationDate": 1680601016188,
+      "contentHash": "006c8eb439ac9f9c5974dd3fae052371",
       "sourceName": "contracts/coinflip.sol",
       "solcConfig": {
         "version": "0.8.0",
@@ -108,8 +38,8 @@
         "CoinFlip"
       ]
     },
-    "D:\\ethernaut\\node_modules\\hardhat\\console.sol": {
-      "lastModificationDate": 1676212470745,
+    "/Users/hebiscus/Documents/ethernaut/node_modules/hardhat/console.sol": {
+      "lastModificationDate": 1680601033005,
       "contentHash": "4ff3cd2f6272c9a6516e9ee4f2b967d3",
       "sourceName": "hardhat/console.sol",
       "solcConfig": {
@@ -143,9 +73,9 @@
         "console"
       ]
     },
-    "D:\\ethernaut\\contracts\\coinflipper.sol": {
-      "lastModificationDate": 1676304240429,
-      "contentHash": "ed349a8b03574f472fd0d2dbc1dbd257",
+    "/Users/hebiscus/Documents/ethernaut/contracts/coinflipper.sol": {
+      "lastModificationDate": 1680601016188,
+      "contentHash": "4f22afabc5e96e9a8e9bb43ace41c9d9",
       "sourceName": "contracts/coinflipper.sol",
       "solcConfig": {
         "version": "0.8.0",
@@ -180,81 +110,9 @@
         "CoinFlipper"
       ]
     },
-    "D:\\ethernaut\\contracts\\ownerchanger.sol": {
-      "lastModificationDate": 1676313031133,
-      "contentHash": "2c2a1597db04fb4d89c5fc223e5f3f41",
-      "sourceName": "contracts/ownerchanger.sol",
-      "solcConfig": {
-        "version": "0.8.0",
-        "settings": {
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "./telephone.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "OwnerChanger"
-      ]
-    },
-    "D:\\ethernaut\\contracts\\telephone.sol": {
-      "lastModificationDate": 1676312117826,
-      "contentHash": "764211388e542071968d1caa7ca78049",
-      "sourceName": "contracts/telephone.sol",
-      "solcConfig": {
-        "version": "0.8.0",
-        "settings": {
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "Telephone"
-      ]
-    },
-    "D:\\ethernaut\\contracts\\delegate.sol": {
-      "lastModificationDate": 1676496584278,
-      "contentHash": "8569b81e93fbbb5eb31d53e98cad02a1",
+    "/Users/hebiscus/Documents/ethernaut/contracts/delegate.sol": {
+      "lastModificationDate": 1680601016188,
+      "contentHash": "98d8ebe8ef0ce6e2b1ccb9815a8a63db",
       "sourceName": "contracts/delegate.sol",
       "solcConfig": {
         "version": "0.8.0",
@@ -287,9 +145,9 @@
         "Delegate"
       ]
     },
-    "D:\\ethernaut\\contracts\\delegation.sol": {
-      "lastModificationDate": 1676496636916,
-      "contentHash": "41c8133d715d09729789aab810606e90",
+    "/Users/hebiscus/Documents/ethernaut/contracts/delegation.sol": {
+      "lastModificationDate": 1680601016188,
+      "contentHash": "08d2917b80e879d161c76efe4d4dadf3",
       "sourceName": "contracts/delegation.sol",
       "solcConfig": {
         "version": "0.8.0",
@@ -324,10 +182,50 @@
         "Delegation"
       ]
     },
-    "D:\\ethernaut\\contracts\\selfdestr.sol": {
-      "lastModificationDate": 1676583627913,
-      "contentHash": "7b0b91deeca8d9a9beb88be979ed5ca5",
-      "sourceName": "contracts/selfdestr.sol",
+    "/Users/hebiscus/Documents/ethernaut/contracts/dex.sol": {
+      "lastModificationDate": 1680691292410,
+      "contentHash": "f944b7e8c9715487cee1e9877857d56d",
+      "sourceName": "contracts/dex.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+        "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+        "@openzeppelin/contracts/access/Ownable.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Dex",
+        "SwappableToken"
+      ]
+    },
+    "/Users/hebiscus/Documents/ethernaut/node_modules/@openzeppelin/contracts/token/ERC20/IERC20.sol": {
+      "lastModificationDate": 1680601787218,
+      "contentHash": "ad7c2d0af148c8f9f097d65deeb4da6b",
+      "sourceName": "@openzeppelin/contracts/token/ERC20/IERC20.sol",
       "solcConfig": {
         "version": "0.8.0",
         "settings": {
@@ -356,12 +254,267 @@
         "^0.8.0"
       ],
       "artifacts": [
-        "selfdes"
+        "IERC20"
       ]
     },
-    "D:\\ethernaut\\contracts\\notransfers.sol": {
-      "lastModificationDate": 1676626738496,
-      "contentHash": "d4ec3185523d3b3211082ad9fa4e6aa2",
+    "/Users/hebiscus/Documents/ethernaut/node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol": {
+      "lastModificationDate": 1680601787209,
+      "contentHash": "834a0dde221759af42b030253315b086",
+      "sourceName": "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./IERC20.sol",
+        "./extensions/IERC20Metadata.sol",
+        "../../utils/Context.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "ERC20"
+      ]
+    },
+    "/Users/hebiscus/Documents/ethernaut/node_modules/@openzeppelin/contracts/access/Ownable.sol": {
+      "lastModificationDate": 1680601787222,
+      "contentHash": "e436cea06129be2c73cda4b1acc848b5",
+      "sourceName": "@openzeppelin/contracts/access/Ownable.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../utils/Context.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Ownable"
+      ]
+    },
+    "/Users/hebiscus/Documents/ethernaut/node_modules/@openzeppelin/contracts/utils/Context.sol": {
+      "lastModificationDate": 1680601787205,
+      "contentHash": "5f2c5c4b6af2dd4551027144797bc8be",
+      "sourceName": "@openzeppelin/contracts/utils/Context.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Context"
+      ]
+    },
+    "/Users/hebiscus/Documents/ethernaut/node_modules/@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol": {
+      "lastModificationDate": 1680601787219,
+      "contentHash": "909ab67fc5c25033fe6cd364f8c056f9",
+      "sourceName": "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../IERC20.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "IERC20Metadata"
+      ]
+    },
+    "/Users/hebiscus/Documents/ethernaut/contracts/echidnadex.sol": {
+      "lastModificationDate": 1680717817632,
+      "contentHash": "016e09763dd67b09453b5d75eeb2b22b",
+      "sourceName": "contracts/echidnadex.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./dex.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "EchidnaDex"
+      ]
+    },
+    "/Users/hebiscus/Documents/ethernaut/contracts/fallback.sol": {
+      "lastModificationDate": 1680601016188,
+      "contentHash": "cf0f4ee0eb205bc0ec29c97ad270739a",
+      "sourceName": "contracts/fallback.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Fallback"
+      ]
+    },
+    "/Users/hebiscus/Documents/ethernaut/contracts/hellonaut.sol": {
+      "lastModificationDate": 1680601016188,
+      "contentHash": "6612f121a41d9d996e2d674aa4ac1f14",
+      "sourceName": "contracts/hellonaut.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Instance"
+      ]
+    },
+    "/Users/hebiscus/Documents/ethernaut/contracts/notransfers.sol": {
+      "lastModificationDate": 1680601016188,
+      "contentHash": "34a26f3b37fef92c11a64f75216fec72",
       "sourceName": "contracts/notransfers.sol",
       "solcConfig": {
         "version": "0.8.0",
@@ -394,9 +547,81 @@
         "NoTransfers"
       ]
     },
-    "D:\\ethernaut\\contracts\\reentrance.sol": {
-      "lastModificationDate": 1676628962175,
-      "contentHash": "d48d60337f3c8549145a2f4a2605b9cd",
+    "/Users/hebiscus/Documents/ethernaut/contracts/ownerchanger.sol": {
+      "lastModificationDate": 1680601016188,
+      "contentHash": "9d92c57b466b03365df21c6ec86c79aa",
+      "sourceName": "contracts/ownerchanger.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./telephone.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "OwnerChanger"
+      ]
+    },
+    "/Users/hebiscus/Documents/ethernaut/contracts/telephone.sol": {
+      "lastModificationDate": 1680601016189,
+      "contentHash": "147da82875b7fb627b3a16f4449538dc",
+      "sourceName": "contracts/telephone.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Telephone"
+      ]
+    },
+    "/Users/hebiscus/Documents/ethernaut/contracts/reentrance.sol": {
+      "lastModificationDate": 1680601016188,
+      "contentHash": "ddc4048b5fb582dfd0e10aadd946220c",
       "sourceName": "contracts/reentrance.sol",
       "solcConfig": {
         "version": "0.8.0",
@@ -431,8 +656,8 @@
         "Reentrance"
       ]
     },
-    "D:\\ethernaut\\node_modules\\@openzeppelin\\contracts\\utils\\math\\SafeMath.sol": {
-      "lastModificationDate": 1676222978415,
+    "/Users/hebiscus/Documents/ethernaut/node_modules/@openzeppelin/contracts/utils/math/SafeMath.sol": {
+      "lastModificationDate": 1680601787224,
       "contentHash": "2337f0279507b5edf14a07067adf0d05",
       "sourceName": "@openzeppelin/contracts/utils/math/SafeMath.sol",
       "solcConfig": {
@@ -464,6 +689,41 @@
       ],
       "artifacts": [
         "SafeMath"
+      ]
+    },
+    "/Users/hebiscus/Documents/ethernaut/contracts/selfdestr.sol": {
+      "lastModificationDate": 1680601016188,
+      "contentHash": "ff8bb1dcb68725217b4625f94a276587",
+      "sourceName": "contracts/selfdestr.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "selfdes"
       ]
     }
   }
